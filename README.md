@@ -2,7 +2,6 @@
 
 - 🔭 Hoje sou estudante
 - 🌱 Estudando Python
-- 😄 Pronouns: ele/dele
 
  <div>
   <a href="https://github.com/P3terD">
