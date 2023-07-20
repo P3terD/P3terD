@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Pietro :D
 
-- 🔭 Hoje sou estudante
+- 👨‍💻 Técnico em Automação Industrial (IFES)
+- 🎓 Graduando em Engenharia da Computação (UFES)
 - 🌱 Estudando Python
 
  <div>
