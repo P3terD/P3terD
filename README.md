@@ -2,6 +2,7 @@
 
 - 👨‍💻 Técnico em Automação Industrial (IFES)
 - 🎓 Graduando em Engenharia da Computação (UFES)
+- 👨‍💻 Trainee na Adapti
 
  <div>
   <a href="https://github.com/P3terD">
