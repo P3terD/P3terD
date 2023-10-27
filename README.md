@@ -1,8 +1,8 @@
-## Olá! Eu sou o Pietro :D
+## Hi! I'm Pietro :D
 
-- 👨‍💻 Técnico em Automação Industrial (IFES)
-- 🎓 Graduando em Engenharia da Computação (UFES)
-- 💒 Trainee de desenvolvimento na Adapti
+- 👨‍💻 Industrial Automation Technician (IFES)
+- 🎓 Graduating in Computer Engineering (UFES)
+- 💒 Trainee of development on Adapti
 
  <div>
   <a href="https://github.com/P3terD">
