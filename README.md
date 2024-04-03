@@ -2,7 +2,7 @@
 
 - 👨‍💻 Industrial Automation Technician (IFES)
 - 🎓 Graduating in Computer Engineering (UFES)
-- 💒 Trainee of development on Adapti
+- 💒 Developer on Adapti
 
  <div>
   <a href="https://github.com/P3terD">
