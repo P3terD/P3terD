@@ -2,7 +2,6 @@
 
 - 👨‍💻 Industrial Automation Technician (IFES)
 - 🎓 Graduating in Computer Engineering (UFES)
-- 💒 Developer on Adapti
 
 <h3>Conheça algums das linguagens que mais utilizo</h3>
 <div align="center">
